@@ -125,8 +125,8 @@ embeddings = OpenAIEmbeddings(
 
 llm = ChatOpenAI(
     model="gpt-4o",
-    temperature=0,
-    max_tokens=100,
+    temperature=0.5,
+    max_tokens=300,
     timeout=100,
     max_retries=2,
     # other params...

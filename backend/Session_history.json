@@ -1,14 +1,14 @@
 {
     "Machine Learning Digital Assignment.pdf": [
-        "What is this documetn",
-        "The document appears to be a digital assignment related to machine learning, specifically focusing on data discretization and feature selection techniques. It includes methods for discretizing data and selecting optimal features for model training. The assignment is associated with a student named Ashish David John, with registration number 22BIT0188.",
-        "Who is the author",
-        "The author of the document is Ashish David John.",
-        "WHat are all the feature selection techniques mentioned in the document",
-        "The document mentions the following feature selection techniques: \n\n1. Filter Approach: Pearson\u2019s Correlation Analysis, Chi-Square Test, Information Gain, Variance Threshold.\n2. Wrapper Approach: Forward Selection, Backward Selection, Exhaustive Feature Selection, Recursive Feature Elimination.\n3. Embedded Approach: Regularization, Artificial Neural Network Weights, Decision Tree Importance Scores.",
+        "--- Summary ---",
+        "The conversation revolves around a digital assignment on machine learning, focusing on data discretization and feature selection techniques. The assignment is authored by Ashish David John, with the registration number 22BIT0188. The document outlines various feature selection techniques, categorized into three approaches: \n\n1. Filter Approach: Pearson\u2019s Correlation Analysis, Chi-Square Test, Information Gain, Variance Threshold.\n2. Wrapper Approach: Forward Selection, Backward Selection, Exhaustive Feature Selection, Recursive Feature Elimination.\n3. Embedded Approach: Regularization, Artificial Neural Network Weights, Decision Tree Importance Scores.",
         "What is the Wrapper Approach",
         "The Wrapper Approach is a feature selection method that treats the selection of features as a search problem, where different combinations of features are evaluated and compared to find the optimal set for model training. It involves techniques such as Forward Selection, Backward Selection, Exhaustive Feature Selection, and Recursive Feature Elimination. This approach is computationally intensive but can provide a more accurate selection of features tailored to a specific model.",
         "What is the FIleter approach",
-        "The Filter Approach is a feature selection method that uses statistical measures to select relevant features. Common techniques in this approach include Pearson\u2019s Correlation Analysis, Chi-Square Test, Information Gain, and Variance Threshold. It is generally less computationally intensive compared to other methods like the Wrapper Approach."
+        "The Filter Approach is a feature selection method that uses statistical measures to select relevant features. Common techniques in this approach include Pearson\u2019s Correlation Analysis, Chi-Square Test, Information Gain, and Variance Threshold. It is generally less computationally intensive compared to other methods like the Wrapper Approach.",
+        "What are the methods for optimal feature selection for model training",
+        "Optimal feature selection methods for model training include the Filter Approach, which uses statistical measures like Pearson\u2019s Correlation Analysis and Chi-Square Test; the Wrapper Approach, which involves techniques such as Forward Selection and Recursive Feature Elimination; and the Embedded Approach, which incorporates methods like Regularization and Decision Tree Importance Scores. Each approach has its strengths, with the Filter Approach being less computationally intensive, while the Wrapper Approach can provide a more tailored set of features. The Embedded Approach integrates feature selection as part of the model training process.",
+        "Explain the embedded approach",
+        "The Embedded Approach is a feature selection method that integrates feature selection as part of the model training process. It includes techniques such as Regularization, Artificial Neural Network Weights, and Decision Tree Importance Scores. This approach allows for feature selection to occur simultaneously with model fitting."
     ]
 }
